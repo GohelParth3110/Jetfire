@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: cfa9416f63af0fb44bb13cba43be0690
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Kids Marker
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: f6c03260bd529384a8758dd29e023dab, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
